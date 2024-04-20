@@ -1,9 +1,10 @@
-# Commodities Analysis - Brent Crude Prices
+# Commodities Analysis
 
 ## Overview
 This repository offers an in-depth analysis of Brent Crude Oil prices using various statistical and machine learning techniques. It serves as a hub for exploring historical price trends, performing predictive modeling, and deriving actionable insights.
 
 ## Getting Started
+I used Brent Crude Prices over the past 5 years. Feel free to use anything you would like. Look at xlsx file for current dataset.
 If you wish to contribute, feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 For any queries or further discussion, please contact the project maintainers.
 You can reach me @ h.cole320@icloud.com
